@@ -1,0 +1,6 @@
+{
+  "name": "Lark Music",
+  "description": "Reproductor de música estilo Lark Player con ecualizador avanzado, karaoke en tiempo real, listas personalizadas y modo oscuro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
